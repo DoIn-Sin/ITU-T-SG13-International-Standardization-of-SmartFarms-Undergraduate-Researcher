@@ -1,4 +1,4 @@
-# ITU-T-SG13-International-Standardization-of-SmartFarms-Undergraduate-Researcher
+# 🌾ITU-T SG13 스마트팜 국제 표준화 과제 학부생 연구원 활동👨‍🎓
 
 ## 연구 보고서 - 배추와 무 가격 예측 및 중요 변수 분석
 ### 데이터
